@@ -1,0 +1,22 @@
+# End-to-End DevOps Project (Terraform + Ansible + Jenkins)
+
+## 🚀 Overview
+This project demonstrates a complete DevOps pipeline:
+- Provision infrastructure using Terraform
+- Configure servers using Ansible
+- Deploy CI/CD pipeline using Jenkins
+
+## 🛠 Tools Used
+- AWS (EC2)
+- Terraform
+- Ansible
+- Jenkins
+- Docker
+
+## ⚙️ What I Did
+- Created infrastructure as code using Terraform
+- Automated configuration with Ansible
+- Built Jenkins pipeline for deployment
+
+## 📈 Result
+Fully automated deployment pipeline from infrastructure to application.
